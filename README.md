@@ -21,3 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Forget to implement Private Route so user can navigate directly to profile/1 (this is a fatal mistake ) 
 - Don't update JSON file. Because the scope of the project is small, so I don't create a server with and API endpoint to handle GET and POST. I just create a JSON file
 with user information in the ./src. But I got experienced working with API so I think I could do well with an API endpoint too. 
+
+## Authentication Flow
+You can view the Authentication Flow in Authentication Flow folder 
